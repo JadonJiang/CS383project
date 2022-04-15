@@ -1,5 +1,9 @@
 # CS383project
-1917494055 江家同
-1917494081 王靖博
-1917494083 黄杰
-1917494007 李宇豪
+Team leader
+1917494055 Jiang Jiatong
+
+Team member
+1917494081 Wang Jingbo
+1917494083 Huang jie 
+1917494007 Li Yuhao
+
