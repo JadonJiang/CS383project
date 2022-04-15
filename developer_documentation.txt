@@ -1,0 +1,16 @@
+1.How to obtain the source code?
+      We provide the full source code on the official website (our GitHub link), and you can download them for free.
+2.	The layout of your directory structure.
+	1.Student.h
+	2.Student.cpp
+	3.StudentManager.h
+	4.StudentManager.cpp
+	5.main.cpp
+3.How to build the software?
+	If you reshape our software, we suggest you strictly follow the catalogue provided by us. If you are a master of code, you can add the functions you want. I think we still don't recommend you to leave our framework.
+How to test the software?
+       There is no specific requirement for this. You can test it in your development environment.
+4.How to add new tests?
+       There is no specific requirement for this. You can test it in your development environment. We suggest you follow our framework.
+5.	How to build a release of the software?
+	You can update your software based on the previous generation. You can directly put the updated code on the official website (GitHub). We suggest that you keep the code of each version, but rewrite the user documentation and developer documentation for each version of the code. This can help your users understand the update status of this version and decide whether to update to the modified version.

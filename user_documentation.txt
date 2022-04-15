@@ -1,0 +1,13 @@
+1.description.
+This program design is to use the student achievement management system written in object-oriented C + +, define a class student to store the basic information and basic operations of students, and define an object of class "studentmanager" and "studentmanager", that is, the student achievement management system. The grade management system provides batch import (from file import, manual entry), display, query, modify, add, sort, delete and other operations of student information.
+The program uses the console as the output interface and the keyboard as the input. Various operations can be completed by following the prompt information of the console. The data is stored in the "vector" of "STL". Compared with ordinary arrays, the "vector" is more flexible and the operation is more convenient than ordinary linked lists.
+2.How to install the software?
+All the software can be downloaded directly from GITHUB official website.They are simple and easy to install and use.
+3.	How to run the software?
+ You need to compile and then run in the development environment.
+4.	How to use the software?
+       You can choose the function you need according to the prompt of the system, and provide the corresponding input, and the system will give the corresponding output.
+5.	How to report a bug?
+       You can submit these contents on this official website (our GitHub website).
+6.	Known bugs?
+       There may be a jam in a large number of inputs, and we are working to repair this content.
